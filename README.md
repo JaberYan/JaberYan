@@ -71,7 +71,7 @@
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=Jaber-riyan&theme=highcontrast&border_radius=6" alt="GitHub Streak" />
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaber-riyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaber-riyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 
 </div>
 
