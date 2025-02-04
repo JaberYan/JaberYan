@@ -67,6 +67,7 @@
 ###
 
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaber-riyan&label=Profile%20views&color=0e75b6&style=flat" alt="jaber-riyan" /> </p>
 <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=Jaber-riyan&theme=highcontrast&border_radius=6" alt="GitHub Streak" />
 </a>
