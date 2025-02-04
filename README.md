@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="370" src="https://i.ibb.co.com/wFWHGsZw/Black-White-Modern-Personal-Branding-Youtube-Banner.png"  />
+  <img height="430" src="https://i.ibb.co.com/wFWHGsZw/Black-White-Modern-Personal-Branding-Youtube-Banner.png"  />
 </div>
 
 ###
